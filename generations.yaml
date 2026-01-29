@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Peugeot_Expert"
+
 generations:
   - name: "First Generation"
     start_year: 1995
